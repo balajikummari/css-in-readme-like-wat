@@ -5,10 +5,20 @@
 				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
 				<p>Click to see the source</p>
 			</div>
-			<div>
-				Made with HTML 
-				Click to see the source
-			</div>
+<table class="main-body" style="box-sizing: border-box; min-height: 150px; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; width: 100%; height: 100%; background-color: rgb(234, 236, 237);" width="100%" height="100%" bgcolor="rgb(234, 236, 237)">
+  <tr class="row" style="box-sizing: border-box; vertical-align: top;" valign="top">
+    <td class="main-body-cell" style="box-sizing: border-box;">
+      <table class="container" style="box-sizing: border-box; font-family: Helvetica, serif; min-height: 150px; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; margin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: auto; height: 0px; width: 90%; max-width: 550px;" width="90%" height="0">
+        <tr style="box-sizing: border-box;">
+          <td class="container-cell" style="box-sizing: border-box; vertical-align: top; font-size: medium; padding-bottom: 50px;" valign="top">
+            <table class="table100 c1790" style="box-sizing: border-box; width: 100%; padding-top: 5px; padding-right: 5px; padding-bottom: 5px; padding-left: 5px; height: 0px; min-height: 30px; border-collapse: separate; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; margin-left: 0px;" width="100%" height="0">
+              <tr style="box-sizing: border-box;">
+                <td class="top-cell" id="c1793" style="box-sizing: border-box; text-align: right; color: rgb(152, 156, 165);" align="right">
+                  <u class="browser-link" id="c307" style="box-sizing: border-box; font-size: 12px;">View in browser 
+                  </u>
+                </td>
+              </tr>
+            </table>
 		</div>
 	</foreignObject>
 </svg>
